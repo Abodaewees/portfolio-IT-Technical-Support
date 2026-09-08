@@ -40,7 +40,7 @@ const copy = {
   en: {
     nav: ["Home", "About", "Education", "Certificates", "Skills", "Experience", "Projects", "Services", "Achievements", "Testimonials", "Contact"],
     available: "Available for freelance work",
-    heroKicker: "IT Engineer · System & Networks · DevOps in progress",
+    heroKicker: "IT Engineer · System & Networks · DevOps (in progress)",
     heroGreeting: "Hello, I'm",
     heroTitle: "Abdelrahman\nOwais",
     heroBody:
